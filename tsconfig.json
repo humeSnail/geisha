@@ -1,7 +1,12 @@
 {
+
     "compilerOptions": {
-      "declaration": true,
-      "declarationDir": "./types"
-    }
+        "baseUrl": "./",
+        "declaration": true,
+        "declarationDir": "./typings",
+        "emitDeclarationOnly": true,
+        "skipLibCheck": true
+    },
+    "exclude": ["src/**/*.test.ts", "node_modules"]
 }
   

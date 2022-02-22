@@ -114,6 +114,6 @@ lib
 es
 dist
 build
-types
+typings
 tsconfig.build.tsbuildinfo
 .cache-loader

@@ -4,11 +4,12 @@
   "description": "a library for describe logic stream",
   "main": "lib/index.js",
   "module": "es/index.js",
-  "types": "types/index.d.ts",
+  "types": "typings/index.d.ts",
   "files": [
     "dist",
     "lib",
-    "es"
+    "es",
+    "typings"
   ],
   "scripts": {
     "test": "jest ./src",
