@@ -1,9 +1,3 @@
-/*
- * @Author: chonger
- * @Date: 2021-08-26 14:09:25
- * @Last Modified by: chonger
- * @Last Modified time: 2022-02-21 18:31:23
- */
 import { TMonad, TMonadGenerator } from './types/monad';
 import { IdentityGenerator as identity } from './monads/identity';
 import { isError } from './utils/isError';

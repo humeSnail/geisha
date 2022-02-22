@@ -1,9 +1,3 @@
-/*
- * @Author: chonger
- * @Date: 2021-08-27 12:30:05
- * @Last Modified by: chonger
- * @Last Modified time: 2022-01-12 18:03:37
- */
 import Geisha from './geisha';
 import { MapGenerator } from './monads/map';
 

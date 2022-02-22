@@ -1,9 +1,3 @@
-/*
- * @Author: chonger
- * @Date: 2021-08-26 10:54:58
- * @Last Modified by: chonger
- * @Last Modified time: 2021-08-31 17:33:35
- */
 export { default } from './geisha';
 export { MapGenerator as map } from './monads/map';
 export { AsyncMapGenerator as asyncMap } from './monads/async-map';
