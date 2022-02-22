@@ -1,2 +1,2 @@
 # geisha
-一个描述逻辑过程的库
+a library for describe logic stream
